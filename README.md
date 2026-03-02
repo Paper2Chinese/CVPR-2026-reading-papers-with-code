@@ -45,6 +45,10 @@
 <a name="EmAI"></a>
 # 具身智能（Embodied AI）
 
+#### Action-Geometry Prediction with 3D Geometric Prior for Bimanual Manipulation
+- Link：https://arxiv.org/abs/2602.23814
+- Code：https://github.com/Chongyang-99/GAP.git
+
 #### GeCo-SRT: Geometry-aware Continual Adaptation for Robotic Cross-Task Sim-to-Real Transfer
 - Link：https://arxiv.org/abs/2602.20871
 - Code：
@@ -78,6 +82,10 @@
 
 <a name="3D-Reconstruction"></a>
 # 三维重建(3D Reconstruction)
+
+#### FoV-Net: Rotation-Invariant CAD B-rep Learning via Field-of-View Ray Casting
+- Link：https://arxiv.org/abs/2602.24084
+- Code：
 
 #### Global-Aware Edge Prioritization for Pose Graph Initialization
 - Link：[https://arxiv.org/abs/2602.21963](https://arxiv.org/abs/2602.21963)
@@ -169,6 +177,10 @@
 - Link：https://arxiv.org/abs/2602.20160
 - Code：https://github.com/SarthakM320/CLIPoint3D
 
+#### FluoCLIP: Stain-Aware Focus Quality Assessment in Fluorescence Microscopy
+- Link：https://arxiv.org/abs/2602.23791
+- Code：
+
 
 <a name="MAE"></a>
 # MAE
@@ -226,18 +238,35 @@
 
 <a name="VLM"></a>
 # 视觉语言模型(LLM)
+#### Interpretable Debiasing of Vision-Language Models for Social Fairness
+- Link：https://arxiv.org/abs/2602.24014
+- Code：
+
 
 #### Seeing Clearly, Reasoning Confidently: Plug-and-Play Remedies for Vision Language Model Blindness
 - Link：https://arxiv.org/abs/2602.19615
 - Code：
 
+#### Quant Experts: Token-aware Adaptive Error Reconstruction with Mixture of Experts for Large Vision-Language Models Quantization
+- Link：https://arxiv.org/abs/2602.24059
+- Code：
+
 <a name="MLLM"></a>
 # 多模态大语言模型(MLLM)
+
+
+#### EMO-R3: Reflective Reinforcement Learning for Emotional Reasoning in Multimodal Large Language Models
+- Link：https://arxiv.org/abs/2602.23802
+- Code：
+
 
 #### ReMoRa: Multimodal Large Language Model based on Refined Motion Representation for Long-Video Understanding
 - Link：https://arxiv.org/abs/2602.16412
 - Code：
 
+#### Venus: Benchmarking and Empowering Multimodal Large Language Models for Aesthetic Guidance and Cropping
+- Link：https://arxiv.org/abs/2602.23980
+- Code：https://github.com/PKU-ICST-MIPL/Venus_CVPR2026
 
 #### WeaveTime: Stream from Earlier Frames into Emergent Memory in VideoLLMs
 - Link：[https://arxiv.org/abs/2602.22142](https://arxiv.org/abs/2602.22142)
@@ -253,6 +282,10 @@
 
 <a name="multimodal"></a>
 # 多模态
+
+#### U-Mind: A Unified Framework for Real-Time Multimodal Interaction with Audiovisual Generation
+- Link：https://arxiv.org/abs/2602.23739
+- Code：
 
 #### MultiModalPFN: Extending Prior-Data Fitted Networks for Multimodal Tabular Learning
 - Link：[https://arxiv.org/abs/2602.20223](https://arxiv.org/abs/2602.20223)
@@ -321,7 +354,9 @@
 <a name="Vision-Transformer"></a>
 # Vision Transformer
 
-
+#### MuViT: Multi-Resolution Vision Transformers for Learning Across Scales in Microscopy
+- Link：https://arxiv.org/abs/2602.24222
+- Code：
 
 <a name="Panoptic-Segmentation"></a>
 # 全景分割(Panoptic Segmentation)
@@ -339,6 +374,10 @@
 <a name="Object-Detection"></a>
 # 目标检测(Object Detection)
 
+#### Fourier Angle Alignment for Oriented Object Detection in Remote Sensing
+- Link：https://arxiv.org/abs/2602.23790
+- Code：https://github.com/gcy0423/Fourier-Angle-Alignment
+
 #### Foundation Model Priors Enhance Object Focus in Feature Space for Source-Free Object Detection
 - Link：https://arxiv.org/abs/2512.17514
 - Code：
@@ -346,7 +385,9 @@
 <a name="DA"></a>
 ## 数据增强(Data Augmentation)
 
-
+#### Fixed Anchors Are Not Enough: Dynamic Retrieval and Persistent Homology for Dataset Distillation
+- Link：https://arxiv.org/abs/2602.24144
+- Code：
 
 
 <a name="Anomaly-Detection"></a>
@@ -370,6 +411,10 @@
 
 <a name="VT"></a>
 # 目标跟踪(Object Tracking)
+#### UTPTrack: Towards Simple and Unified Token Pruning for Visual Tracking
+- Link：https://arxiv.org/abs/2602.23734
+- Code：https://github.com/EIT-NLP/UTPTrack
+
 
 #### Changes in Real Time: Online Scene Change Detection with Multi-View Fusion
 - Link：https://arxiv.org/abs/2511.12370
@@ -500,6 +545,10 @@
 - Link：https://arxiv.org/abs/2602.19083
 - Code：
 
+#### Towards Source-Aware Object Swapping with Initial Noise Perturbation
+- Link：https://arxiv.org/abs/2602.23697
+- Code：
+
 <a name="Image-Inpainting"></a>
 # 图像补全/图像修复(Image Inpainting)
 
@@ -547,6 +596,13 @@
 
 # 图像生成(Image Generation)
 
+#### Enhancing Spatial Understanding in Image Generation via Reward Modeling
+- Link：https://arxiv.org/abs/2602.24233
+- Code：https://github.com/DAGroup-PKU/SpatialT2I
+
+#### AutoDebias: Automated Framework for Debiasing Text-to-Image Models
+- Link：https://arxiv.org/abs/2508.00445
+- Code：
 
 
 <a name="Video-Generation"></a>
@@ -629,6 +685,13 @@
 #### Brewing Stronger Features: Dual-Teacher Distillation for Multispectral Earth Observation
 - Link：[https://arxiv.org/abs/2602.19863](https://arxiv.org/abs/2602.19863)
 - Code：[https://wolfilip.github.io/DEO/](https://wolfilip.github.io/DEO/)
+
+#### Distilling Balanced Knowledge from a Biased Teacher
+- Link：https://arxiv.org/abs/2506.18496
+- Code：
+
+
+
 
 <a name="IC"></a>
 # 图像压缩(Image Compression)
