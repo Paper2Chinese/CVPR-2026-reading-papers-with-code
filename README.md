@@ -406,7 +406,7 @@
 - Code：https://github.com/VitaminCreed/LAVIDA
 
 #### SimLBR: Learning to Detect Fake Images by Learning to Detect Real Images
-- Link：https://arxiv.org/abs/2602.20409
+- Link：https://arxiv.org/pdf/2602.20412
 - Code：
 
 <a name="VT"></a>
