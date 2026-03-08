@@ -40,10 +40,16 @@
 <a name="Dehazing"></a>
 # 图像去雾(Dehazing)
 
-
+#### UniRain: Unified Image Deraining with RAG-based Dataset Distillation and Multi-objective Reweighted Optimization
+- Link：https://arxiv.org/abs/2603.03967
+- Code：https://github.com/QianfengY/UniRain
 
 <a name="EmAI"></a>
 # 具身智能（Embodied AI）
+
+#### Structural Action Transformer for 3D Dexterous Manipulation
+- Link：https://arxiv.org/abs/2603.03960
+- Code：
 
 #### Action-Geometry Prediction with 3D Geometric Prior for Bimanual Manipulation
 - Link：https://arxiv.org/abs/2602.23814
@@ -67,10 +73,22 @@
 
 <a name="3DGS"></a>
 
+#### Motion-Aware Animatable Gaussian Avatars Deblurring
+- Link：https://arxiv.org/abs/2411.16758
+- Code：https://github.com/MyNiuuu/MAD-Avatar
+
 # 3DGS(Gaussian Splatting)
 #### BrepGaussian: CAD reconstruction from Multi-View Images with Gaussian Splatting
 - Link：[https://arxiv.org/abs/2602.21105](https://arxiv.org/abs/2602.21105)
 - Code：
+
+#### OnlineX: Unified Online 3D Reconstruction and Understanding with Active-to-Stable State Evolution
+- Link：https://arxiv.org/abs/2603.02134
+- Code：https://xiac20.github.io/OnlineX/
+
+#### STAvatar: Soft Binding and Temporal Density Control for Monocular 3D Head Avatars Reconstruction
+- Link：https://arxiv.org/abs/2511.19854
+- Code：https://jiankuozhao.github.io/STAvatar/
 
 #### Dropping Anchor and Spherical Harmonics for Sparse-view Gaussian Splatting
 - Link：[https://arxiv.org/abs/2602.20933](https://arxiv.org/abs/2602.20933)
@@ -86,6 +104,13 @@
 - Link：https://arxiv.org/abs/2603.01010
 - Code：
 
+#### SimRecon: SimReady Compositional Scene Reconstruction from Real Videos
+- Link：https://arxiv.org/abs/2603.02133
+- Code：https://xiac20.github.io/SimRecon/
+
+#### MoRe: Motion-aware Feed-forward 4D Reconstruction Transformer
+- Link：https://arxiv.org/abs/2603.05078
+- Code：https://hellexf.github.io/MoRe/
 
 #### RnG: A Unified Transformer for Complete 3D Modeling from Partial Observations
 - Link：https://arxiv.org/abs/2603.01194
@@ -148,6 +173,21 @@
 
 <a name="Autonomous-Driving"></a>
 # 自动驾驶
+
+
+
+
+#### SABER: Spatially Consistent 3D Universal Adversarial Objects for BEV Detectors
+- Link：https://arxiv.org/abs/2505.22499
+- Code：
+
+#### Learning to Drive is a Free Gift: Large-Scale Label-Free Autonomy Pretraining from Unposed In-The-Wild Videos
+- Link：https://arxiv.org/abs/2602.22091
+- Code：
+
+#### DriverGaze360: OmniDirectional Driver Attention with Object-Level Guidance
+- Link：https://arxiv.org/abs/2512.14266
+- Code：https://dfki-av.github.io/drivergaze360
 
 #### CoLC: Communication-Efficient Collaborative Perception with LiDAR Completion
 - Link：https://arxiv.org/abs/2603.00682
@@ -221,12 +261,17 @@
 - Link：[https://arxiv.org/abs/2602.20903](https://arxiv.org/abs/2602.20903)
 - Code：[https://github.com/CIawevy/TextPecker](https://github.com/CIawevy/TextPecker)
 
+#### D2Dewarp: Dual Dimensions Geometric Representation Learning Based Document Image Dewarping
+- Link：https://arxiv.org/abs/2507.08492
+- Code：https://github.com/xiaomore/D2Dewarp
 
 <a name="Occupancy"></a>
 
 # Occupancy
 
-
+#### Dr.Occ: Depth- and Region-Guided 3D Occupancy from Surround-View Cameras for Autonomous Driving
+- Link：https://arxiv.org/abs/2603.01007
+- Code：
 
 
 <a name="NeRF"></a>
@@ -255,6 +300,9 @@
 - Link：https://arxiv.org/abs/2602.19024
 - Code：
 
+#### FOZO: Forward-Only Zeroth-Order Prompt Optimization for Test-Time Adaptation
+- Link：https://arxiv.org/abs/2603.04733
+- Code：
 
 <a name="LLM"></a>
 # 大语言模型(LLM)
@@ -268,6 +316,10 @@
 # 视觉语言模型(LLM)
 #### Interpretable Debiasing of Vision-Language Models for Social Fairness
 - Link：https://arxiv.org/abs/2602.24014
+- Code：
+
+#### Mind the Way You Select Negative Texts: Pursuing the Distance Consistency in OOD Detection with VLMs
+- Link：https://arxiv.org/abs/2603.02618
 - Code：
 
 #### AdaptVision: Efficient Vision-Language Models via Adaptive Visual Acquisition
@@ -297,6 +349,29 @@
 - Link：https://arxiv.org/abs/2509.21029
 - Code：
 
+#### ViRC: Enhancing Visual Interleaved Mathematical CoT with Reason Chunking
+- Link：https://arxiv.org/abs/2512.14654
+- Code：https://github.com/Leon-LihongWang/ViRC
+
+#### See, Think, Act: Teaching Multimodal Agents to Effectively Interact with GUI by Identifying Toggles
+- Link：https://arxiv.org/abs/2509.13615
+- Code：https://github.com/ZrW00/StaR
+
+#### Evolutionary Multimodal Reasoning via Hierarchical Semantic Representation for Intent Recognition
+- Link：https://arxiv.org/abs/2603.03827
+- Code：https://github.com/thuiar/HIER
+
+#### Training High-Level Schedulers with Execution-Feedback Reinforcement Learning for Long-Horizon GUI Automation
+- Link：https://arxiv.org/abs/2511.22235
+- Code：https://github.com/hehehahi4/CES
+
+#### Graph2Eval: Automatic Multimodal Task Generation for Agents via Knowledge Graphs
+- Link：https://arxiv.org/abs/2510.00507
+- Code：
+
+#### MASQuant: Modality-Aware Smoothing Quantization for Multimodal Large Language Models
+- Link：https://arxiv.org/abs/2603.04800
+- Code：https://github.com/alibaba/EfficientAI
 
 #### EMO-R3: Reflective Reinforcement Learning for Emotional Reasoning in Multimodal Large Language Models
 - Link：https://arxiv.org/abs/2602.23802
@@ -392,7 +467,13 @@
 <a name="RL"></a>
 ## 强化学习(Reinforcement Learning) 
 
+#### Specificity-aware reinforcement learning for fine-grained open-world classification
+- Link：https://arxiv.org/abs/2603.03197
+- Code：https://github.com/s-angheben/SpeciaRL
 
+#### From Pairs to Sequences: Track-Aware Policy Gradients for Keypoint Detection
+- Link：https://arxiv.org/abs/2602.20630
+- Code：
 
 
 <a name="ReID"></a>
@@ -417,6 +498,20 @@
 
 <a name="Diffusion"></a>
 # 扩散模型(Diffusion Models)
+
+
+
+#### Elucidating the Design Space of Arbitrary-Noise-Based Diffusion Models
+- Link：https://arxiv.org/abs/2507.18534
+- Code：https://github.com/PerceptionComputingLab/EDA
+
+#### TAP: A Token-Adaptive Predictor Framework for Training-Free Diffusion Acceleration
+- Link：https://arxiv.org/abs/2603.03792
+- Code：
+
+#### CFG-Ctrl: Control-Based Classifier-Free Diffusion Guidance
+- Link：https://arxiv.org/abs/2603.03281
+- Code：https://hanyang-21.github.io/CFG-Ctrl
 
 #### ConceptPrism: Concept Disentanglement in Personalized Diffusion Models via Residual Token Optimization
 - Link：https://arxiv.org/abs/2602.19575
@@ -472,6 +567,9 @@
 
 <a name="Anomaly-Detection"></a>
 # 异常检测(Anomaly Detection)
+#### MoECLIP: Patch-Specialized Experts for Zero-shot Anomaly Detection
+- Link：https://arxiv.org/abs/2603.03101
+- Code：https://github.com/CoCoRessa/MoECLIP
 
 #### Weakly Supervised Video Anomaly Detection with Anomaly-Connected Components and Intention Reasoning
 - Link：https://arxiv.org/abs/2603.00550
@@ -519,6 +617,9 @@
 - Link：https://arxiv.org/abs/2603.01361
 - Code：https://github.com/spiderforest/MixerCSeg
 
+#### Discriminative Perception via Anchored Description for Reasoning Segmentation
+- Link：https://arxiv.org/abs/2603.04002
+- Code：https://github.com/mrazhou/DPAD
 
 <a name="Instance-Segmentation"></a>
 # 实例分割(Instance Segmentation)
@@ -546,6 +647,10 @@
 <a name="MI"></a>
 # 医学图像(Medical Image)
 
+#### CARE: A Molecular-Guided Foundation Model with Adaptive Region Modeling for Whole Slide Image Analysis
+- Link：https://arxiv.org/abs/2602.21637
+- Code：
+
 #### MRI Contrast Enhancement Kinetics World Model
 - Link：https://arxiv.org/abs/2602.19285
 - Code：https://github.com/DD0922/MRI-Contrast-Enhancement-Kinetics-World-Model
@@ -566,7 +671,9 @@
 <a name="MIS"></a>
 # 医学图像分割(Medical Image Segmentation)
 
-
+#### Tell2Adapt: A Unified Framework for Source Free Unsupervised Domain Adaptation via Vision Foundation Model
+- Link：https://arxiv.org/abs/2603.05012
+- Code：https://github.com/derekshiii/Tell2Adapt
 
 
 <a name="VOS"></a>
@@ -596,6 +703,9 @@
 - Link：https://arxiv.org/abs/2511.23055
 - Code：
 
+#### QD-PCQA: Quality-Aware Domain Adaptation for Point Cloud Quality Assessment
+- Link：https://arxiv.org/abs/2603.03726
+- Code：https://github.com/huhu-code/QD-PCQA
 
 <a name="SSL"></a>
 # 自监督学习(Self-supervised Learning)
@@ -615,9 +725,17 @@
 - Link：https://arxiv.org/abs/2603.01040
 - Code：
 
+#### HiLoRA: Hierarchical Low-Rank Adaptation for Personalized Federated Learning
+- Link：https://arxiv.org/abs/2603.02785
+- Code：
+
 #### FedVG: Gradient-Guided Aggregation for Enhanced Federated Learning
 - Link：[https://arxiv.org/abs/2602.21399](https://arxiv.org/abs/2602.21399)
 - Code：[https://github.com/alinadevkota/FedVG](https://github.com/alinadevkota/FedVG)
+
+#### FedAFD: Multimodal Federated Learning via Adversarial Fusion and Distillation
+- Link：https://arxiv.org/abs/2603.04890
+- Code：
 
 <a name="IL"></a>
 # 增量学习(Incremental Learning)
@@ -626,6 +744,10 @@
 
 <a name="#3DOD"></a>
 # 3D目标检测(3D Object Detection)
+
+#### CoIn3D: Revisiting Configuration-Invariant Multi-Camera 3D Object Detection
+- Link：https://arxiv.org/abs/2603.05042
+- Code：
 
 #### Learning Mutual View Information Graph for Adaptive Adversarial Collaborative Perception
 - Link：https://arxiv.org/abs/2602.19596
@@ -678,7 +800,9 @@
 - Link：https://arxiv.org/abs/2603.02210
 - Code：https://correr-zhou.github.io/HiFi-Inpaint/
 
-
+#### HiFi-Inpaint: Towards High-Fidelity Reference-Based Inpainting for Generating Detail-Preserving Human-Product Images
+- Link：https://arxiv.org/abs/2603.02210
+- Code：https://correr-zhou.github.io/HiFi-Inpaint/
 
 <a name="GAN"></a>
 # 生成对抗网络(GAN)
@@ -699,6 +823,10 @@
 
 <a name="LLV"></a>
 # Low-level Vision
+
+#### ShiftLUT: Spatial Shift Enhanced Look-Up Tables for Efficient Image Restoration
+- Link：https://arxiv.org/abs/2603.00906
+- Code：https://github.com/Sailor-t/ShiftLUT
 
 #### Cross-Scale Pansharpening via ScaleFormer and the PanScale Benchmark
 - Link：https://arxiv.org/abs/2603.00543
@@ -730,6 +858,18 @@
 # 超分辨率(Super-Resolution)
 
 
+#### FiDeSR: High-Fidelity and Detail-Preserving One-Step Diffusion Super-Resolution
+- Link：https://arxiv.org/abs/2603.02692
+- Code：https://github.com/Ar0Kim/FiDeSR
+
+#### Toward Real-world Infrared Image Super-Resolution: A Unified Autoregressive Framework and Benchmark Dataset
+- Link：https://arxiv.org/abs/2603.04745
+- Code：https://github.com/JZD151/Real-IISR
+
+#### AlignVAR: Towards Globally Consistent Visual Autoregression for Image Super-Resolution
+- Link：https://arxiv.org/abs/2603.00589
+- Code：
+
 #### Spectral Super-Resolution via Adversarial Unfolding and Data-Driven Spectrum Regularization: From Multispectral Satellite Data to NASA Hyperspectral Image
 - Link：https://arxiv.org/abs/2603.00920
 - Code：https://sites.google.com/view/chiahsianglin/software
@@ -752,6 +892,10 @@
 #### OmniLottie: Generating Vector Animations via Parameterized Lottie Tokens
 - Link：https://arxiv.org/abs/2603.02138
 - Code：https://openvglab.github.io/OmniLottie/
+
+#### Improving Text-to-Image Generation with Intrinsic Self-Confidence Rewards
+- Link：https://arxiv.org/abs/2603.00918
+- Code：https://wookiekim.github.io/SOLACE/
 
 #### VeCoR -- Velocity Contrastive Regularization for Flow Matching
 - Link：https://arxiv.org/abs/2511.18942
@@ -776,6 +920,17 @@
 - Link：[https://arxiv.org/abs/2602.21929](https://arxiv.org/abs/2602.21929)
 - Code：
 
+#### NOVA: Sparse Control, Dense Synthesis for Pair-Free Video Editing
+- Link：https://arxiv.org/abs/2603.02802
+- Code：
+
+#### CubeComposer: Spatio-Temporal Autoregressive 4K 360° Video Generation from Perspective Video
+- Link：https://arxiv.org/abs/2603.04291
+- Code：https://lg-li.github.io/project/cubecomposer
+
+#### FaceCam: Portrait Video Camera Control via Scale-Aware Conditioning
+- Link：https://arxiv.org/abs/2603.05506
+- Code：https://weijielyu.github.io/FaceCam
 
 #### UniTalking: A Unified Audio-Video Framework for Talking Portrait Generation
 - Link：https://arxiv.org/abs/2603.01418
@@ -811,6 +966,9 @@
 - Link：https://arxiv.org/abs/2603.00526
 - Code：
 
+#### MorphAny3D: Unleashing the Power of Structured Latent in 3D Morphing
+- Link：https://arxiv.org/abs/2601.00204
+- Code：https://xiaokunsun.github.io/MorphAny3D.github.io
 
 #### Easy3E: Feed-Forward 3D Asset Editing via Rectified Voxel Flow
 - Link：[https://arxiv.org/abs/2602.21499](https://arxiv.org/abs/2602.21499)
@@ -825,6 +983,22 @@
 #### LongVideo-R1: Smart Navigation for Low-cost Long Video Understanding
 - Link：[https://arxiv.org/abs/2602.20913](https://arxiv.org/abs/2602.20913)
 - Code：[https://github.com/qiujihao19/LongVideo-R1](https://github.com/qiujihao19/LongVideo-R1)
+
+#### VideoChat-M1: Collaborative Policy Planning for Video Understanding via Multi-Agent Reinforcement Learning
+- Link：https://arxiv.org/abs/2511.19524
+- Code：
+
+#### SAIL: Similarity-Aware Guidance and Inter-Caption Augmentation-based Learning for Weakly-Supervised Dense Video Captioning
+- Link：https://arxiv.org/abs/2603.05437
+- Code：
+
+#### Think, Then Verify: A Hypothesis-Verification Multi-Agent Framework for Long Video Understanding
+- Link：https://arxiv.org/abs/2603.04977
+- Code：https://github.com/Haorane/VideoHV-Agent
+
+#### ViterbiPlanNet: Injecting Procedural Knowledge via Differentiable Viterbi for Planning in Instructional Videos
+- Link：https://arxiv.org/abs/2603.04265
+- Code：
 
 #### Wavelet-based Frame Selection by Detecting Semantic Boundary for Long Video Understanding
 - Link：https://arxiv.org/abs/2603.00512
@@ -849,8 +1023,11 @@
 <a name="3D-Human-Pose-Estimation"></a>
 # 3D人体姿态估计(3D Human Pose Estimation)
 
+#### EgoPoseFormer v2: Accurate Egocentric Human Motion Estimation for AR/VR
+- Link：https://arxiv.org/abs/2603.04090
+- Code：
 
-#### 4. Sketch2Colab: Sketch-Conditioned Multi-Human Animation via Controllable Flow Distillation
+#### Sketch2Colab: Sketch-Conditioned Multi-Human Animation via Controllable Flow Distillation
 - Link：https://arxiv.org/abs/2603.02190
 - Code：
 
@@ -890,13 +1067,17 @@
 - Link：https://arxiv.org/abs/2506.18496
 - Code：
 
-
+#### Momentum Memory for Knowledge Distillation in Computational Pathology
+- Link：https://arxiv.org/abs/2602.21395
+- Code：https://github.com/CAIR-LAB-WFUSM/MoMKD
 
 
 <a name="IC"></a>
 # 图像压缩(Image Compression)
 
-
+#### Parallax to Align Them All: An OmniParallax Attention Mechanism for Distributed Multi-View Image Compression
+- Link：https://arxiv.org/abs/2603.03615
+- Code：
 
 <a name="ZSL"></a>
 # Zero-Shot Learning(零样本学习)
@@ -909,6 +1090,9 @@
 - Link：https://arxiv.org/abs/2603.01650
 - Code：
 
+#### PromptStereo: Zero-Shot Stereo Matching via Structure and Motion Prompts
+- Link：https://arxiv.org/abs/2603.01650
+- Code：
 
 #### Pip-Stereo: Progressive Iterations Pruner for Iterative Optimization based Stereo Matching
 - Link：https://arxiv.org/abs/2602.19112
@@ -940,6 +1124,10 @@
 - Link：[https://arxiv.org/abs/2602.21877](https://arxiv.org/abs/2602.21877)
 - Code：[https://laitifranz.github.io/MemCoach/](https://laitifranz.github.io/MemCoach/)
 
+#### Fine-grained Image Aesthetic Assessment: Learning Discriminative Scores from Relative Ranks
+- Link：https://arxiv.org/abs/2603.03907
+- Code：
+
 <a name="Video-Quality-Assessment"></a>
 # 视频质量评价(Video Quality Assessment)
 
@@ -950,6 +1138,11 @@
 #### E-comIQ-ZH: A Human-Aligned Dataset and Benchmark for Fine-Grained Evaluation of E-commerce Posters with Chain-of-Thought
 - Link：[https://arxiv.org/abs/2602.21698](https://arxiv.org/abs/2602.21698)
 - Code：[https://github.com/4mm7/E-comIQ-ZH](https://github.com/4mm7/E-comIQ-ZH)
+
+#### Continuous Exposure-Time Modeling for Realistic Atmospheric Turbulence Synthesis
+- Link：https://arxiv.org/abs/2603.01398
+- Code：https://github.com/Jun-Wei-Zeng/ET-Turb
+
 
 <a name="Unlearning"></a>
 # 反学习(Machine Unlearning)
@@ -993,6 +1186,14 @@
 - Link：https://arxiv.org/abs/2602.18863
 - Code：
 
+#### PinPoint: Evaluation of Composed Image Retrieval with Explicit Negatives, Multi-Image Queries, and Paraphrase Testing
+- Link：https://arxiv.org/abs/2603.04598
+- Code：
+
+#### NaiLIA: Multimodal Nail Design Retrieval Based on Dense Intent Descriptions and Palette Queries
+- Link：https://arxiv.org/abs/2603.05446
+- Code：
+
 # 其他(Others)
 #### NESTOR: A Nested MOE-based Neural Operator for Large-Scale PDE Pre-Training
 - Link：https://arxiv.org/abs/2602.22059
@@ -1002,6 +1203,14 @@
 - Link：https://arxiv.org/abs/2511.11851
 - Code：
 
+#### BD-Merging: Bias-Aware Dynamic Model Merging with Evidence-Guided Contrastive Learning
+- Link：https://arxiv.org/abs/2603.03920
+- Code：
 
+#### ACE-Merging: Data-Free Model Merging with Adaptive Covariance Estimation
+- Link：https://arxiv.org/abs/2603.02945
+- Code：
 
-
+#### GEM-TFL: Bridging Weak and Full Supervision for Forgery Localization through EM-Guided Decomposition and Temporal Refinement
+- Link：https://arxiv.org/abs/2603.05095
+- Code：
