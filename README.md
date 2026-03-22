@@ -71,7 +71,6 @@
 - Link：https://arxiv.org/abs/2603.09506
 - Code：
 
-
 #### MergeVLA: Cross-Skill Model Merging Toward a Generalist Vision-Language-Action Agent
 - Link：https://arxiv.org/abs/2511.18810
 - Code：https://mergevla.github.io/
@@ -80,11 +79,17 @@
 - Link：https://arxiv.org/abs/2511.21192
 - Code：
 
+#### Context-Nav: Context-Driven Exploration and Viewpoint-Aware 3D Spatial Reasoning for Instance Navigation
+- Link：https://arxiv.org/abs/2603.09506
+- Code：https://github.com/AutoCompSysLab/ContextNav
 
+#### Learning to See and Act: Task-Aware Virtual View Exploration for Robotic Manipulation
+- Link：https://arxiv.org/abs/2508.05186
+- Code：https://github.com/HCPLab-SYSU/TAVP.git
 
-
-
-
+#### Cross-Domain Demo-to-Code via Neurosymbolic Counterfactual Reasoning
+- Link：https://arxiv.org/abs/2603.18495
+- Code：
 
 
 
@@ -113,15 +118,22 @@
 - Code：
 
 <a name="3DGS"></a>
-
-#### Motion-Aware Animatable Gaussian Avatars Deblurring
-- Link：https://arxiv.org/abs/2411.16758
-- Code：https://github.com/MyNiuuu/MAD-Avatar
-
 # 3DGS(Gaussian Splatting)
 #### BrepGaussian: CAD reconstruction from Multi-View Images with Gaussian Splatting
 - Link：[https://arxiv.org/abs/2602.21105](https://arxiv.org/abs/2602.21105)
 - Code：
+
+#### CrowdGaussian: Reconstructing High-Fidelity 3D Gaussians for Human Crowd from a Single Image
+- Link：https://arxiv.org/abs/2603.17779
+- Code：
+
+#### ReLaGS: Relational Language Gaussian Splatting
+- Link：https://arxiv.org/abs/2603.17605
+- Code：https://dfki-av.github.io/ReLaGS/
+
+#### Motion-Aware Animatable Gaussian Avatars Deblurring
+- Link：https://arxiv.org/abs/2411.16758
+- Code：https://github.com/MyNiuuu/MAD-Avatar
 
 #### LTGS: Long-Term Gaussian Scene Chronology From Sparse View Updates
 - Link：https://arxiv.org/abs/2510.09881
@@ -197,11 +209,17 @@
 - Link：https://arxiv.org/abs/2603.12605
 - Code：
 
+#### Order Matters: 3D Shape Generation from Sequential VR Sketches
+- Link：https://arxiv.org/abs/2512.04761
+- Code：https://chenyizi086.github.io/VRSketch2Shape_website
 
+#### CustomTex: High-fidelity Indoor Scene Texturing via Multi-Reference Customization
+- Link：https://arxiv.org/abs/2603.19121
+- Code：
 
-
-
-
+#### PanoVGGT: Feed-Forward 3D Reconstruction from Panoramic Imagery
+- Link：https://arxiv.org/abs/2603.17571
+- Code：
 
 
 
@@ -255,6 +273,13 @@
 <a name="Depth-Estimation"></a>
 # 深度估计(Depth Estimation)
 
+
+
+
+#### SpiderCam: Low-Power Snapshot Depth from Differential Defocus
+- Link：https://arxiv.org/abs/2603.17910
+- Code：
+
 <a name="TP"></a>
 # 轨迹预测(Trajectory Prediction)
 
@@ -270,7 +295,9 @@
 
 # Mamba / SSM
 
-
+#### DA-Mamba: Learning Domain-Aware State Space Model for Global-Local Alignment in Domain Adaptive Object Detection
+- Link：https://arxiv.org/abs/2603.18757
+- Code：
 
 <a name="Avatars"></a>
 
@@ -282,6 +309,18 @@
 
 <a name="Autonomous-Driving"></a>
 # 自动驾驶
+
+#### AdaRadar: Rate Adaptive Spectral Compression for Radar-based Perception
+- Link：https://arxiv.org/abs/2603.17979
+- Code：
+
+#### CausalVAD: De-confounding End-to-End Autonomous Driving via Causal Intervention
+- Link：https://arxiv.org/abs/2603.18561
+- Code：
+
+#### SimScale: Learning to Drive via Real-World Simulation at Scale
+- Link：https://arxiv.org/abs/2511.23369
+- Code：https://github.com/OpenDriveLab/SimScale
 
 #### VIRD: View-Invariant Representation through Dual-Axis Transformation for Cross-View Pose Estimation
 - Link：https://arxiv.org/abs/2603.12918
@@ -330,7 +369,6 @@
 #### RAYNOVA: Scale-Temporal Autoregressive World Modeling in Ray Space
 - Link：[https://arxiv.org/abs/2602.20685](https://arxiv.org/abs/2602.20685)
 - Code：[https://raynova-ai.github.io/](https://raynova-ai.github.io/)
-
 
 #### HorizonForge: Driving Scene Editing with Any Trajectories and Any Vehicles
 - Link：[https://arxiv.org/abs/2602.21333](https://arxiv.org/abs/2602.21333)
@@ -400,6 +438,12 @@
 
 <a name="OCR"></a>
 # OCR
+
+#### What Is Wrong with Synthetic Data for Scene Text Recognition? A Strong Synthetic Engine with Diverse Simulations and Self-Evolution
+- Link：https://arxiv.org/abs/2602.06450
+- Code：https://github.com/YesianRohn/UnionST
+
+
 #### TextPecker: Rewarding Structural Anomaly Quantification for Enhancing Visual Text Rendering
 - Link：[https://arxiv.org/abs/2602.20903](https://arxiv.org/abs/2602.20903)
 - Code：[https://github.com/CIawevy/TextPecker](https://github.com/CIawevy/TextPecker)
@@ -488,6 +532,11 @@
 
 <a name="VLM"></a>
 # 视觉语言模型(LLM)
+
+#### Draft and Refine with Visual Experts
+- Link：https://arxiv.org/abs/2511.11005
+- Code：https://github.com/EavnJeong/Draft-and-Refine-with-Visual-Experts
+
 #### Interpretable Debiasing of Vision-Language Models for Social Fairness
 - Link：https://arxiv.org/abs/2602.24014
 - Code：
@@ -534,6 +583,40 @@
 
 <a name="MLLM"></a>
 # 多模态大语言模型(MLLM)
+
+
+
+
+
+
+
+#### No Need For Real Anomaly: MLLM Empowered Zero-Shot Video Anomaly Detection
+- Link：https://arxiv.org/abs/2602.19248
+- Code：https://github.com/VitaminCreed/LAVIDA
+
+#### See, Think, Act: Teaching Multimodal Agents to Effectively Interact with GUI by Identifying Toggles
+- Link：https://arxiv.org/abs/2509.13615
+- Code：https://github.com/ZrW00/StaR
+
+#### Where MLLMs Attend and What They Rely On: Explaining Autoregressive Token Generation
+- Link：https://arxiv.org/abs/2509.22496
+- Code：
+
+#### Fine-Grained Post-Training Quantization for Large Vision Language Models with Quantization-Aware Integrated Gradients
+- Link：https://arxiv.org/abs/2603.17809
+- Code：https://github.com/ucas-xiang/QIG
+
+#### How to Take a Memorable Picture? Empowering Users with Actionable Feedback
+- Link：https://arxiv.org/abs/2602.21877
+- Code：https://laitifranz.github.io/MemCoach/
+
+#### Rethinking MLLM Itself as a Segmenter with a Single Segmentation Token
+- Link：https://arxiv.org/abs/2603.19026
+- Code：https://github.com/ANDYZAQ/SELF1E
+
+#### MRD: Multi-resolution Retrieval-Detection Fusion for High-Resolution Image Understanding
+- Link：https://arxiv.org/abs/2512.02906
+- Code：https://github.com/yf0412/MRD
 
 #### OddGridBench: Exposing the Lack of Fine-Grained Visual Discrepancy Sensitivity in Multimodal Large Language Models
 - Link：https://arxiv.org/abs/2603.09326
@@ -667,9 +750,13 @@
 - Link：https://arxiv.org/abs/2603.09611
 - Code：https://github.com/VisualScienceLab-KHU/ParTY
 
+#### x²-Fusion: Cross-Modality and Cross-Dimension Flow Estimation in Event Edge Space
+- Link：https://arxiv.org/abs/2603.16671
+- Code：
 
-
-
+#### EI: Early Intervention for Multimodal Imaging based Disease Recognition
+- Link：https://arxiv.org/abs/2603.17514
+- Code：
 
 
 
@@ -765,7 +852,9 @@
 ## 强化学习(Reinforcement Learning) 
 
 
-
+#### Dual-Agent Reinforcement Learning for Adaptive and Cost-Aware Visual-Inertial Odometry
+- Link：https://arxiv.org/abs/2511.21083
+- Code：
 
 #### Learning to Assist: Physics-Grounded Human-Human Control via Multi-Agent Reinforcement Learning
 - Link：https://arxiv.org/abs/2603.11346
@@ -843,7 +932,6 @@
 - Link：https://arxiv.org/abs/2603.14885
 - Code：https://github.com/Chuancy-TJU/SpiralDiff
 
-
 #### All-in-One Slider for Attribute Manipulation in Diffusion Models
 - Link：https://arxiv.org/abs/2508.19195
 - Code：
@@ -876,21 +964,37 @@
 - Link：https://arxiv.org/abs/2603.06178
 - Code：https://github.com/Darkbblue/goca
 
+#### Uni-DAD: Unified Distillation and Adaptation of Diffusion Models for Few-step Few-shot Image Generation
+- Link：https://arxiv.org/abs/2511.18281
+- Code：https://github.com/yaramohamadi/uni-DAD
 
+#### Refining Few-Step Text-to-Multiview Diffusion via Reinforcement Learning
+- Link：https://arxiv.org/abs/2505.20107
+- Code：https://github.com/ZiyiZhang27/MVC-ZigAL
 
+#### Face2Scene: Using Facial Degradation as an Oracle for Diffusion-Based Scene Restoration
+- Link：https://arxiv.org/abs/2603.16570
+- Code：
 
+#### Cubic Discrete Diffusion: Discrete Visual Generation on High-Dimensional Representation Tokens
+- Link：https://arxiv.org/abs/2603.19232
+- Code：https://github.com/YuqingWang1029/CubiD
 
+#### Adaptive Auxiliary Prompt Blending for Target-Faithful Diffusion Generation
+- Link：https://arxiv.org/abs/2603.19158
+- Code：
 
+#### ADAPT: Attention Driven Adaptive Prompt Scheduling and InTerpolating Orthogonal Complements for Rare Concepts Generation
+- Link：https://arxiv.org/abs/2603.19157
+- Code：
 
+#### All-in-One Slider for Attribute Manipulation in Diffusion Models
+- Link：https://arxiv.org/abs/2508.19195
+- Code：
 
-
-
-
-
-
-
-
-
+#### TINA: Text-Free Inversion Attack for Unlearned Text-to-Image Diffusion Models
+- Link：https://arxiv.org/abs/2603.17828
+- Code：
 
 
 
@@ -957,7 +1061,13 @@
 <a name="VL"></a>
 # 视觉和语言(Vision-Language)
 
+#### VL-RouterBench: A Benchmark for Vision-Language Model Routing
+- Link：https://arxiv.org/abs/2512.23562
+- Code：
 
+#### CrossHOI-Bench: A Unified Benchmark for HOI Evaluation across Vision-Language Models and HOI-Specific Methods
+- Link：https://arxiv.org/abs/2508.18753
+- Code：
 
 #### More than the Sum: Panorama-Language Models for Adverse Omni-Scenes
 - Link：https://arxiv.org/abs/2603.09573
@@ -999,6 +1109,15 @@
 
 <a name="Object-Detection"></a>
 # 目标检测(Object Detection)
+
+
+#### Prompt-Free Universal Region Proposal Network
+- Link：https://arxiv.org/abs/2603.17554
+- Code：https://github.com/tangqh03/PF-RPN
+
+#### Does YOLO Really Need to See Every Training Image in Every Epoch?
+- Link：https://arxiv.org/abs/2603.17684
+- Code：
 
 #### Fourier Angle Alignment for Oriented Object Detection in Remote Sensing
 - Link：https://arxiv.org/abs/2602.23790
@@ -1103,6 +1222,15 @@
 
 <a name="Semantic-Segmentation"></a>
 # 语义分割(Semantic Segmentation)
+
+#### ACPV-Net: All-Class Polygonal Vectorization for Seamless Vector Map Generation from Aerial Imagery
+- Link：https://arxiv.org/abs/2603.16671
+- Code：https://github.com/HeinzJiao/ACPV-Net
+
+#### Towards High-Quality Image Segmentation: Improving Topology Accuracy by Penalizing Neighbor Pixels
+- Link：https://arxiv.org/abs/2603.18671
+- Code：https://jmlipman.github.io/SCNP-SameClassNeighborPenalization
+
 #### MixerCSeg: An Efficient Mixer Architecture for Crack Segmentation via Decoupled Mamba Attention
 - Link：https://arxiv.org/abs/2603.01361
 - Code：https://github.com/spiderforest/MixerCSeg
@@ -1121,6 +1249,11 @@
 
 <a name="FewShot"></a>
 # 少样本学习(Few-Shot Learning)
+
+#### Remedying Target-Domain Astigmatism for Cross-Domain Few-Shot Object Detection
+- Link：https://arxiv.org/abs/2603.18541
+- Code：
+
 #### MAGIC: Few-Shot Mask-Guided Anomaly Inpainting with Prompt Perturbation, Spatially Adaptive Guidance, and Context Awareness
 - Link：https://arxiv.org/abs/2507.02314
 - Code：https://github.com/SpatialAILab/MAGIC-Anomaly-generation
@@ -1180,11 +1313,17 @@
 - Link：https://arxiv.org/abs/2602.18867
 - Code：
 
+#### LUMINA: A Multi-Vendor Mammography Benchmark with Energy Harmonization Protocol
+- Link：https://arxiv.org/abs/2603.14644
+- Code：
 
+#### Cell-Type Prototype-Informed Neural Network for Gene Expression Estimation from Pathology Images
+- Link：https://arxiv.org/abs/2603.18461
+- Code：https://github.com/naivete5656/CPNN
 
-
-
-
+#### Benchmarking Endoscopic Surgical Image Restoration and Beyond
+- Link：https://arxiv.org/abs/2505.19161
+- Code：
 
 
 
@@ -1222,6 +1361,9 @@
 - Link：https://arxiv.org/abs/2512.11782
 - Code：https://pq-yang.github.io/projects/MatAnyone2/
 
+#### Synergistic Bleeding Region and Point Detection in Laparoscopic Surgical Videos
+- Link：https://arxiv.org/abs/2503.22174
+- Code：
 
 <a name="Action-Detection"></a>
 # 行为检测(Action Detection)
@@ -1246,6 +1388,15 @@
 
 <a name="3D-Point-Cloud"></a>
 # 3D点云(3D-Point-Cloud)
+
+#### Learning Coordinate-based Convolutional Kernels for Continuous SE(3) Equivariant and Efficient Point Cloud Analysis
+- Link：https://arxiv.org/abs/2603.17538
+- Code：
+
+#### Points-to-3D: Structure-Aware 3D Generation with Point Cloud Priors
+- Link：https://arxiv.org/abs/2603.18782
+- Code：
+
 #### Universal 3D Shape Matching via Coarse-to-Fine Language Guidance
 - Link：https://arxiv.org/abs/2511.23055
 - Code：
@@ -1260,6 +1411,10 @@
 
 <a name="SSL"></a>
 # 自监督学习(Self-supervised Learning)
+
+#### BEV-SLD: Self-Supervised Scene Landmark Detection for Global Localization with LiDAR Bird's-Eye View Images
+- Link：https://arxiv.org/abs/2603.17159
+- Code：
 
 #### Towards Stable Self-Supervised Object Representations in Unconstrained Egocentric Video
 - Link：https://arxiv.org/abs/2603.13912
@@ -1311,6 +1466,19 @@
 <a name="#3DOD"></a>
 # 3D目标检测(3D Object Detection)
 
+
+
+
+
+
+#### Look Before You Fuse: 2D-Guided Cross-Modal Alignment for Robust 3D Detection
+- Link：https://arxiv.org/abs/2507.16861
+- Code：
+
+#### VirPro: Visual-referred Probabilistic Prompt Learning for Weakly-Supervised Monocular 3D Detection
+- Link：https://arxiv.org/abs/2603.17470
+- Code：
+
 #### CoIn3D: Revisiting Configuration-Invariant Multi-Camera 3D Object Detection
 - Link：https://arxiv.org/abs/2603.05042
 - Code：
@@ -1351,7 +1519,9 @@
 - Link：https://arxiv.org/abs/2603.08589
 - Code：https://care-edit.github.io/
 
-
+#### Rel-Zero: Harnessing Patch-Pair Invariance for Robust Zero-Watermarking Against AI Editing
+- Link：https://arxiv.org/abs/2603.17531
+- Code：
 
 
 
@@ -1490,7 +1660,16 @@
 <a name="Denoising"></a>
 # 去噪(Denoising)
 
-<a name="3D-Human-Pose-Estimation"></a>
+
+
+
+
+#### Statistical Characteristic-Guided Denoising for Rapid High-Resolution Transmission Electron Microscopy Imaging
+- Link：https://arxiv.org/abs/2603.18834
+- Code：https://github.com/HeasonLee/SCGN
+
+
+
 
 
 
@@ -1528,6 +1707,13 @@
 
 <a name="Video-Generation"></a>
 # 视频生成(Video Generation)
+
+
+
+#### Anchoring and Rescaling Attention for Semantically Coherent Inbetweening
+- Link：https://arxiv.org/abs/2603.17651
+- Code：https://github.com/teunchoi/TGI
+
 #### Training-free Motion Factorization for Compositional Video Generation
 - Link：https://arxiv.org/abs/2603.09104
 - Code：
@@ -1590,7 +1776,9 @@
 
 
 
-
+#### Edit-As-Act: Goal-Regressive Planning for Open-Vocabulary 3D Indoor Scene Editing
+- Link：https://arxiv.org/abs/2603.17583
+- Code：
 
 #### NI-Tex: Non-isometric Image-based Garment Texture Generation
 - Link：https://arxiv.org/abs/2511.18765
@@ -1626,6 +1814,18 @@
 
 <a name="Video-Understanding"></a>
 # 视频理解(Video Understanding)
+
+#### F2HDR: Two-Stage HDR Video Reconstruction via Flow Adapter and Physical Motion Modeling
+- Link：https://arxiv.org/abs/2603.14920
+- Code：
+
+#### Training-free Detection of Generated Videos via Spatial-Temporal Likelihoods
+- Link：https://arxiv.org/abs/2603.15026
+- Code：https://omerbenhayun.github.io/stall-video
+
+#### PFGNet: A Fully Convolutional Frequency-Guided Peripheral Gating Network for Efficient Spatiotemporal Predictive Learning
+- Link：https://arxiv.org/abs/2602.20537
+- Code：https://github.com/fhjdqaq/PFGNet
 
 #### Wavelet-based Frame Selection by Detecting Semantic Boundary for Long Video Understanding
 - Link：https://arxiv.org/abs/2603.00512
@@ -1707,8 +1907,21 @@
 - Link：https://arxiv.org/abs/2603.01400
 - Code：https://tyroneli.github.io/AOT
 
+
+
 <a name="3D-Human-Pose-Estimation"></a>
 # 3D人体姿态估计(3D Human Pose Estimation)
+#### GazeOnce360: Fisheye-Based 360° Multi-Person Gaze Estimation with Global-Local Feature Fusion
+- Link：https://arxiv.org/abs/2603.17161
+- Code：https://caizhuojiang.github.io/GazeOnce360/
+
+#### OnlineHMR: Video-based Online World-Grounded Human Mesh Recovery
+- Link：https://arxiv.org/abs/2603.17355
+- Code：https://tsukasane.github.io/Video-OnlineHMR/
+
+#### Shoe Style-Invariant and Ground-Aware Learning for Dense Foot Contact Estimation
+- Link：https://arxiv.org/abs/2511.22184
+- Code：https://github.com/dqj5182/FECO_RELEASE
 
 #### Towards Balanced Multi-Modal Learning in 3D Human Pose Estimation
 - Link：https://arxiv.org/abs/2501.05264
@@ -1745,6 +1958,9 @@
 - Link：https://arxiv.org/abs/2603.10929
 - Code：https://github.com/yfqi/lifelong_mlr_ifa
 
+#### Elastic Weight Consolidation Done Right for Continual Learning
+- Link：https://arxiv.org/abs/2603.18596
+- Code：
 
 <a name="Action-Recognition"></a>
 # 行为识别(Action Recognition)
@@ -1798,6 +2014,9 @@
 
 <a name="ZSL"></a>
 # Zero-Shot Learning(零样本学习)
+#### Learning through Creation: A Hash-Free Framework for On-the-Fly Category Discovery
+- Link：https://arxiv.org/abs/2603.13858
+- Code：https://github.com/brandinzhang/LTC
 
 #### TALON: Test-time Adaptive Learning for On-the-Fly Category Discovery
 - Link：https://arxiv.org/abs/2603.08075
